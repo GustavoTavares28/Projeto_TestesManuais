@@ -42,4 +42,4 @@ Após selecionar a ordenação por menor preço, o sistema apresenta acessórios
 
 ## Evidência
 
-[Vídeo — BUG003](https://www.awesomescreenshot.com/image/62003131?key=39d83d2fc7bc269c36229745c3709e8b)
+[Imagem — BUG003](https://www.awesomescreenshot.com/image/62003131?key=39d83d2fc7bc269c36229745c3709e8b)

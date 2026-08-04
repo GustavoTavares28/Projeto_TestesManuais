@@ -41,4 +41,4 @@ O site apresenta produtos aleatórios, sem relação com o termo pesquisado.
 
 ## Evidência
 
-[Vídeo — BUG002](https://www.awesomescreenshot.com/image/62003304?key=8d8b98e831a171db2f36835810d19db1)
+[Imagem — BUG002](https://www.awesomescreenshot.com/image/62003304?key=8d8b98e831a171db2f36835810d19db1)
