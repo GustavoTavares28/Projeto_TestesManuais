@@ -94,9 +94,7 @@ Verificar se a ordenação de produtos funciona corretamente.
 
 ---
 
-# Inconsistências Identificadas
-
-## Inconsistências Identificadas
+# Bugs Identificados
 
 Durante a execução dos testes foram encontrados defeitos relacionados à busca e ordenação de produtos.
 

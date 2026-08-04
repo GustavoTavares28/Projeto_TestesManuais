@@ -47,9 +47,9 @@ A documentação gerada durante a execução dos testes está organizada nos seg
 * 🐞 **Bug Report** – Registro detalhado dos defeitos identificados durante os testes.
   ➡️ [Acessar documentação de Bug Reports](bug-report/README.md)
 * 📋 **Relatório de Inconsistências** – Documentação das inconsistências observadas na aplicação.
-* 📌 **Resumo de Defeitos** – Consolidação dos defeitos encontrados durante a execução dos testes.
-* ✅ **Comportamento Esperado** – Descrição do comportamento esperado das funcionalidades avaliadas.
-* 📸 **Evidências de Testes** – Links para imagens e vídeos que comprovam a execução e os resultados dos testes.
+  ➡️ [Acessar documentação de Relatório de Inconsistências](relatorio-inconsistencias/README.md)
+* ⚠️ **Lista de Erros Encontrados** – Registro dos problemas identificados durante os testes, incluindo erros confirmados e observações de comportamentos que necessitam de análise adicional.
+  ➡️ [Acessar documentação de Lista de Erros Encontrados](lista-erros-encontrados/README.md)
 
 ---
 

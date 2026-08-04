@@ -81,3 +81,11 @@ Verificar o comportamento do menu suspenso durante a interação do usuário.
 | 14 | 13 | 1 comportamento observado sem confirmação de defeito |
 
 **Status Final:** ✅ Aprovado
+
+## Inconsistências Identificadas
+
+Durante a execução dos testes de interface foi identificada uma inconsistência relacionada ao carregamento de elementos visuais.
+
+A ocorrência não apresentou comportamento recorrente durante os testes e não foi possível confirmar se estava relacionada ao sistema ou a uma instabilidade temporária de rede.
+
+- [INC001 — Falha momentânea no carregamento de imagem do banner](../../relatorio-inconsistencias/INC001-amazon-falha-carregamento-banner.md)
