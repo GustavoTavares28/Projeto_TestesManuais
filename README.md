@@ -50,6 +50,8 @@ A documentação gerada durante a execução dos testes está organizada nos seg
   ➡️ [Acessar documentação de Relatório de Inconsistências](relatorio-inconsistencias/README.md)
 * ⚠️ **Lista de Erros Encontrados** – Registro dos problemas identificados durante os testes, incluindo erros confirmados e observações de comportamentos que necessitam de análise adicional.
   ➡️ [Acessar documentação de Lista de Erros Encontrados](lista-erros-encontrados/README.md)
+* 📑 **Relatório Comportamental** – Análise comparativa entre o comportamento esperado e o comportamento observado da aplicação durante a execução dos testes.
+  ➡️ [Acessar Relatório Comportamental](relatorio-comportamental/README.md)
 
 ---
 
