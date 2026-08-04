@@ -98,3 +98,15 @@ Verificar se o sistema realiza validação adequada do tamanho mínimo da senha.
 | 13 | 11 | 2 |
 
 **Status Final:** ⚠️ Aprovado com inconsistências
+
+---
+
+## Observação
+
+Os passos 6.2 e 6.3 foram classificados como **Falhou** por apresentarem comportamento diferente do resultado esperado definido para o teste.
+
+Entretanto, **não foi possível confirmar se esse comportamento representa um defeito da aplicação**, pois não houve acesso aos requisitos funcionais ou critérios de aceitação referentes à política de validação de senha.
+
+O caso foi registrado para acompanhamento em:
+
+➡️ [ERRO002 — Mensagem genérica para validação de senha](../../lista-erros-encontrados/erros-em-analise/ERRO002-validacao-senha.md)
