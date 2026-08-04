@@ -1,4 +1,4 @@
-# ERRO002 — Cadastro prossegue sem confirmação imediata de e-mail
+# ERRO001 — Cadastro prossegue sem confirmação imediata de e-mail
 
 ## Informações
 
