@@ -98,6 +98,6 @@ Verificar se a ordenação de produtos funciona corretamente.
 
 Durante a execução dos testes foram encontrados defeitos relacionados à busca e ordenação de produtos.
 
-- [BUG001 — Resultados de busca pouco relevantes](../../bug-report/BUG001-resultados-busca-computador.md)
+- [BUG001 — Resultados de busca pouco relevantes](../../bug-report/BUG001-resultados-busca-relevantes.md)
 - [BUG002 — Pesquisa sem resultado apresenta produtos aleatórios](../../bug-report/BUG002-produto-inexistente.md)
 - [BUG003 — Ordenação por menor preço inconsistente](../../bug-report/BUG003-ordenacao-menor-preco.md)

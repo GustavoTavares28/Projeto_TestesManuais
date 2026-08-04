@@ -39,4 +39,4 @@ O sistema apresenta diversos periféricos de computador, reduzindo a relevância
 
 ## Evidências
 
-[BUG001](https://www.awesomescreenshot.com/image/62003229?key=be6823d0cd3a4b5a5258b568c81a8969)
+[Vídeo — BUG001](https://www.awesomescreenshot.com/image/62003229?key=be6823d0cd3a4b5a5258b568c81a8969)

@@ -8,6 +8,6 @@ Registro dos defeitos encontrados durante a execução dos testes manuais.
 
 | ID | Aplicação | Descrição | Status |
 |-|-|-|-|
-| [BUG001](BUG001-resultados-busca-relevantes.md) | Mercado Livre | Resultados de busca pouco relevantes | Aberto |
-| [BUG002](BUG002-produto-inexistente.md) | Mercado Livre | Pesquisa sem resultado apresenta produtos aleatórios | Aberto |
-| [BUG003](BUG003-ordenacao-menor-preco.md) | Mercado Livre | Ordenação por menor preço inconsistente | Aberto |
+| [BUG001 — Resultados de busca pouco relevantes](BUG001-resultados-busca-relevantes.md) | Mercado Livre | Resultados de busca pouco relevantes | Aberto |
+| [BUG002 — Pesquisa sem resultado apresenta produtos aleatórios](BUG002-produto-inexistente.md) | Mercado Livre | Pesquisa sem resultado apresenta produtos aleatórios | Aberto |
+| [BUG003 — Ordenação por menor preço inconsistente](BUG003-ordenacao-menor-preco.md) | Mercado Livre | Ordenação por menor preço inconsistente | Aberto |
