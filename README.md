@@ -43,7 +43,7 @@ A documentação gerada durante a execução dos testes está organizada nos seg
 
 * 📊 **Matriz de Testes** – Planilha contendo os casos de teste executados, disponível para visualização e download no **[Google Sheets](https://docs.google.com/spreadsheets/d/1fLsYkRsGkpN0wMKY6bYQWsJD6R36wc72OYOngjemy48/edit?usp=sharing)**.
 * 🧪 **Casos de Teste** – Cenários de teste, pré-condições, passos de execução, resultados esperados e resultados obtidos.
-  ➡️ [Acessar documentação de Casos de Teste](testes-manuais/casos-de-teste/README.md)
+  ➡️ [Acessar documentação de Casos de Teste](casos-de-teste/README.md)
 * 🐞 **Bug Report** – Registro detalhado dos defeitos identificados durante os testes.
   ➡️ [Acessar documentação de Bug Reports](bug-report/README.md)
 * 📋 **Relatório de Inconsistências** – Documentação das inconsistências observadas na aplicação.
