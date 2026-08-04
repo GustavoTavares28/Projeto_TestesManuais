@@ -1,31 +1,31 @@
-# 🔍 QA LumeStack - Projeto Prático de Testes
+# QA LumeStack — Testes Manuais e Documentação de Qualidade
 
-## 📌 Sobre o projeto
+Projeto prático de Quality Assurance (QA) com foco na execução de testes manuais em aplicação web, elaboração de documentação de testes, identificação de defeitos e registro de evidências.
 
-Projeto prático desenvolvido para aplicar conceitos de Quality Assurance (QA), realizando planejamento, documentação, execução de testes e registro de defeitos.
+## 📌 Atividades realizadas
 
-O objetivo é simular uma rotina real de um profissional QA em um ambiente de desenvolvimento de software.
+- Criação e execução de casos de teste funcionais;
+- Elaboração de cenários positivos e negativos;
+- Validação de regras de negócio da aplicação;
+- Identificação, análise e registro de defeitos (Bug Report);
+- Documentação dos resultados e evidências de testes;
+- Organização da documentação utilizando planilhas e arquivos de apoio.
 
----
+## 🛠️ Ferramentas e conceitos aplicados
 
-## 🎯 Objetivos
+- Testes Manuais;
+- Casos de Teste;
+- Cenários de Teste;
+- Bug Report;
+- Evidências de Testes;
+- Excel / Google Sheets;
+- Git e GitHub.
 
-- Elaborar plano de testes
-- Criar casos de teste
-- Executar testes manuais
-- Registrar bugs encontrados
-- Documentar evidências
-- Preparar cenário para automação com Cypress
+## 📂 Documentação
 
----
-
-## 🛠️ Tecnologias e ferramentas
-
-- Testes Manuais
-- Git/GitHub
-- Markdown
-- Cypress (em desenvolvimento)
-- Postman (futuramente)
-
----
+O projeto contém:
+- Matriz de testes;
+- Casos de teste executados;
+- Registro de defeitos encontrados;
+- Evidências das validações realizadas.
 
