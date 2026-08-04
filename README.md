@@ -31,6 +31,7 @@ Aplicar conceitos e boas práticas de Quality Assurance por meio da criação e 
 * Bug Report
 * Documentação de Qualidade
 * Excel / Google Sheets
+* Markdown
 * Git
 * GitHub
 
@@ -40,8 +41,7 @@ Aplicar conceitos e boas práticas de Quality Assurance por meio da criação e 
 
 A documentação gerada durante a execução dos testes está organizada nos seguintes artefatos:
 
-* 📊 **Matriz de Testes** – Planilha contendo os casos de teste executados, disponível para visualização e download no Google Sheets.
-https://docs.google.com/spreadsheets/d/1fLsYkRsGkpN0wMKY6bYQWsJD6R36wc72OYOngjemy48/edit?usp=sharing
+* 📊 **Matriz de Testes** – Planilha contendo os casos de teste executados, disponível para visualização e download no **[Google Sheets](https://docs.google.com/spreadsheets/d/1fLsYkRsGkpN0wMKY6bYQWsJD6R36wc72OYOngjemy48/edit?usp=sharing)**.
 * 🧪 **Casos de Teste** – Cenários de teste, pré-condições, passos de execução, resultados esperados e resultados obtidos.
 * 🐞 **Bug Report** – Registro detalhado dos defeitos identificados durante os testes.
 * 📋 **Relatório de Inconsistências** – Documentação das inconsistências observadas na aplicação.
