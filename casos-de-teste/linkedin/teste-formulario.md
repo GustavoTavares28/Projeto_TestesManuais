@@ -105,4 +105,4 @@ Verificar disponibilidade e funcionamento do botão durante o preenchimento do f
 Durante a execução dos testes foi identificado um comportamento que não pôde ser confirmado como defeito.
 
 - ⚠️ **ERRO001 — Cadastro prossegue sem confirmação imediata de e-mail**, conforme as regras atuais da aplicação. Recomenda-se avaliar se o comportamento está de acordo com os requisitos de segurança.
-  ➡️ [Visualizar registro](../lista-erros-encontrados/erros-em-analise/ERRO001-confirmacao-email.md)
+  ➡️ [Visualizar registro](../../lista-erros-encontrados/erros-em-analise/ERRO001-confirmacao-email.md)
