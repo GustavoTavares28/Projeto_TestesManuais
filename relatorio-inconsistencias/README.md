@@ -24,7 +24,7 @@ Documentar comportamentos observados durante os testes que não foram classifica
 
 ### 🛒 Amazon Brasil
 
-- [INC001](INC001-amazon-falha-carregamento-banner.md)
+- [INC001 — Falha momentânea no carregamento de imagem do banner](INC001-amazon-falha-carregamento-banner.md)
 
 ---
 

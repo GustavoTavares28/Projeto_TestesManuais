@@ -4,12 +4,12 @@ Nesta seção estão registrados os problemas, comportamentos inesperados e obse
 
 Os registros são classificados conforme a análise realizada:
 
-- 🐞 **Erros Confirmados** — comportamentos reproduzíveis identificados como falhas.
+- 🐞 **Erros em Análise** — possíveis inconsistências identificadas durante os testes que aguardam validação.
 - 📝 **Observações** — comportamentos identificados durante os testes que necessitam de análise adicional, sem confirmação de defeito.
 
 ---
 
-## 🐞 Erros Confirmados
+## 🐞 Erros em Análise
 
 - [ERRO001 — Cadastro prossegue sem confirmação imediata de e-mail](erros-em-analise/ERRO001-confirmacao-email.md)
 - [ERRO002 — Mensagem genérica para validação de senha](erros-em-analise/ERRO002-validacao-senha.md)
